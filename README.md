@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 - 🌱 I’m currently learning **React!**
-
 - 📒 My hobbies are **playing games & creating various design-related projects.**
 
 <h3 align="left">Connect with me:</h3>
